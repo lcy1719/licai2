@@ -22,3 +22,4 @@
 项目申报：用户可以在个人中心进行项目申报，可能是与理财计划相关的投资或支出项目。**
 
 ![image](https://github.com/user-attachments/assets/bc80b405-af56-41b4-9153-c7b79e3ebb22)
+![image](https://github.com/user-attachments/assets/7ebc8e77-fc14-4fa3-8b22-4facc70c77ec)
